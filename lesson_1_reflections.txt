@@ -1,0 +1,6 @@
+How might using version control make you more confident to make changes that could break something?
+
+A: We could easily go back to restore the code and debug the issue. This is making the coding a lot more efficient.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+A: Checking the code and play around it!
