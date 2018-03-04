@@ -7,7 +7,9 @@ What value do you think it offers?
 Staging area is transitional area to group file that you want to put into the working directory and repository.
 
 How can you use the staging area to make sure you have one commit per logical
-change?ss
+change?
+using the git diff --staged to comparing staging area to commits 
+using the git diff to comparing working area to staging area
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
