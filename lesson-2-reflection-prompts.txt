@@ -1,4 +1,4 @@
-1. What happens when you initialize a repository? Why do you need to do it?
+1. What happens when you initialise a repository? Why do you need to do it?
 there will be 0 commits and it will create a file called .git
 in order to track the file we need to create the .git file.
 
@@ -12,10 +12,10 @@ using the git diff --staged to comparing staging area to commits
 using the git diff to comparing working area to staging area
 
 4. What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+organised? How would branches help?
 Creating different branch will make testing version of the master branch without change the master branch.
 
-How do the diagrams help you visualize the branch structure?
+How do the diagrams help you visualise the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
